@@ -8,7 +8,7 @@ doks:
             image:
         nav:
             - item_name: 首页
-              item_url: '#'
+              item_url: 'training.tc-edu.org'
             - item_name: 通知
               item_url: '#'
             - item_name: 教材
