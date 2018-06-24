@@ -11,7 +11,7 @@ buttons:
       url: '/notice'
       external_url: false
     - content: 师资团队
-      url: '#'
+      url: '/team'
       external_url: false
     - content: 报道通知
       url: '#'
