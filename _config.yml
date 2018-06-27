@@ -21,7 +21,7 @@ doks:
             address: 北京市大兴区金苑路3403办公室
             copyright: Copyright &copy; 2018. - 北京大学软件与微电子学院 <br>版权所有，侵权必究。
         social_list:
-            - network_name: weibo
+            - network_name: weibo 
               profile_url: '#'
             - network_name: wechat
               profile_url: '#'
