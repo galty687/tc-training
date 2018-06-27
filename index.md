@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: 北京大学技术写作师资班
-description: 本网站用于提供所有跟技术写作师资培训班相关的技术资料。
+description: 2018年7月16日-20日，北京
 buttons:
     - content: 培训通知
       url: '/notice'
