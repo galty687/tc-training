@@ -13,9 +13,9 @@ buttons:
     - content: 师资团队
       url: '/team'
       external_url: false
-    - content: 报道通知
-      url: '#'
-      external_url: false
+    - content: 在线报名
+      url: 'http://pkutc-training.mikecrm.com/wvUmqCc'
+      external_url: true
     
 
 # Author box
