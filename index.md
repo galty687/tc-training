@@ -38,27 +38,27 @@ grid_navigation:
       cta: 详细阅读
       url: '#'
     - title: 用户分析
-      excerpt: 在撰写技术文档是，我们总是面向特定对象的，只有弄清楚用户的需求才能更好的提供技术信息。本小节将介绍常用的用户分析方法。
+      excerpt: 在撰写技术文档时，我们总是面向特定对象的，只有弄清楚用户的需求才能更好的提供技术信息。本小节将介绍常用的用户分析方法。
       cta: 详细阅读
       url: '#'
     - title: 信息设计
-      excerpt: 本小节将介绍信息设计的常用方法。
+      excerpt: 本小节将介绍信息设计和呈现的常用方法。
       cta: 详细阅读
       url: '#'
     - title: 写作技术基础
       excerpt: 本小节将介绍现代技术写作的技术基础，分别是XML, CSS和DTD。
       cta: 详细阅读
       url: '#'
-    - title: 达尔文信息分类架构（上）
-      excerpt: 介绍DITA的基本原理，信息分类，组装等原理。
+    - title: 结构化写作与达尔文信息分类架构
+      excerpt: 介绍结构化写作基本原理，介绍DITA的基本原理，信息分类，组装等原理。
       cta: 详细阅读
       url: '#'
-    - title: 达尔文信息分类架构（下）
+    - title: 达尔文信息分类架构实践
       excerpt: 上手练习使用DITA创建帮助文档
       cta: 详细阅读
       url: '#'
     - title: 轻量级标记语言
-      excerpt: 介绍 Markdown，reStructured等轻量级标记语言。
+      excerpt: 介绍 Markdown，reStructuredText 等轻量级标记语言。
       cta: 详细阅读
       url: '#'
     - title: 技术文档发布技术
@@ -66,11 +66,11 @@ grid_navigation:
       cta: 详细阅读
       url: '#'
     - title: 技术文档质量评价方法
-      excerpt: 对文档质量进行评价的方法，如 Content Analysis，Usability Testing等，并使用统计学方法对实验结果进行分析。
+      excerpt: 对文档质量进行评价的方法，如 Content Analysis，Usability Testing 等，并使用统计学方法对实验结果进行分析。
       cta: 详细阅读
       url: '#'
     - title: 技术文档开发综合实践
-      excerpt: 课程的Capstone Project，学员们分组完成技术文档的协同开发。
+      excerpt: 课程的 Capstone Project，学员们分组完成技术文档的协同开发。
       cta: 详细阅读
       url: '#'
 ---
