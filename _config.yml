@@ -1,25 +1,25 @@
 # Theme settings
 doks:
     baseurl:
-    color_theme: # Available themes: blue (default), green, purple, red and yellow
+    color_theme: red # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
             text: 技术写作师资班教材
             image:
         nav:
             - item_name: 首页
-              item_url: 'training.tc-edu.org'
+              item_url: 'www.tc-edu.org'
             - item_name: 通知
               item_url: '#'
             - item_name: 教材
-              item_url: '#'
+              item_url: 'tw.gaozhijun.me'
     footer:
         content:
             logo:
                 text: 北京大学技术写作师资班
                 image:
             address: 北京市海淀区颐和园路5号
-            copyright: Copyright &copy; 2018. - 北京大学软件与微电子学院 <br>版权所有，侵权必究。
+            copyright: Copyright &copy; 2023. - 北京大学软件与微电子学院 <br>版权所有，侵权必究。
         social_list:
             - network_name: weibo 
               profile_url: '#'

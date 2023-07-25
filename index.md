@@ -7,14 +7,14 @@ keywords:
 title: 北京大学技术写作师资班
 description: 2023年8月4日至7日，北京大学本部（网站内容不断更新中）
 buttons:
-    - content: 培训通知
-      url: '/notice'
+    - content: 日程安排
+      url: '/schedule'
       external_url: false
     - content: 师资团队
-      url: '/team'
+      url: '#'
       external_url: false
     - content: 在线报名
-      url: 'http://pkutc-training.mikecrm.com/wvUmqCc'
+      url: 'https://www.oce.pku.edu.cn/cms/m/recruit/index.htm?projectId=87cf694099ed4c39abde8281de07da4f'
       external_url: true
     
 
