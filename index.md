@@ -11,7 +11,7 @@ buttons:
       url: '/schedule'
       external_url: false
     - content: 师资团队
-      url: '#'
+      url: '/teams'
       external_url: false
     - content: 在线报名
       url: 'https://www.oce.pku.edu.cn/cms/m/recruit/index.htm?projectId=87cf694099ed4c39abde8281de07da4f'
