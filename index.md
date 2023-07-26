@@ -53,7 +53,7 @@ grid_navigation:
       excerpt: 介绍结构化写作基本原理，介绍DITA的基本原理，信息分类，组装等原理。
       cta: 详细阅读
       url: '#'
-    - title: 达尔文信息分类架构实践
+    - title: 结构化写作实践
       excerpt: 上手练习使用oXygen XML 创作各种DITA信息类型，并将内容连接后，发布为各种可供读者使用的帮助文档。
       cta: 详细阅读
       url: '#'
