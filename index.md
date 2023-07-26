@@ -33,8 +33,8 @@ grid_navigation:
       excerpt: 本小节将概览技术写作和技术传播的行业概况、行业对此类人才的需求，及其未来的发展趋势。
       cta: 详细阅读
       url: 'tc_overview'
-    - title: 技术文档法律法规研读
-      excerpt: 技术文档作为产品的一部分，欧美对文档有完善的法律法规要求，需要从业者能熟悉常见的法律法规要求。
+    - title: 技术传播研究话题与研究方法
+      excerpt: 介绍技术传播领域的研究话题，以及常用的研究方法，并分享常见期刊的录用过程和要求。
       cta: 详细阅读
       url: '#'
     - title: 用户分析
@@ -49,24 +49,20 @@ grid_navigation:
       excerpt: 本小节将介绍现代技术写作的技术基础，分别是XML, CSS和DTD。
       cta: 详细阅读
       url: '#'
-    - title: 结构化写作与达尔文信息分类架构
+    - title: 结构化写作与达尔文信息分类架构(DITA)
       excerpt: 介绍结构化写作基本原理，介绍DITA的基本原理，信息分类，组装等原理。
       cta: 详细阅读
       url: '#'
     - title: 达尔文信息分类架构实践
-      excerpt: 上手练习使用DITA创建帮助文档
-      cta: 详细阅读
-      url: '#'
-    - title: 轻量级标记语言
-      excerpt: 介绍 Markdown，reStructuredText 等轻量级标记语言。
+      excerpt: 上手练习使用oXygen XML 创作各种DITA信息类型，并将内容连接后，发布为各种可供读者使用的帮助文档。
       cta: 详细阅读
       url: '#'
     - title: 技术文档发布技术
       excerpt: 介绍传统出版和数字出版的基本知识
       cta: 详细阅读
       url: '#'
-    - title: 技术文档质量评价方法
-      excerpt: 对文档质量进行评价的方法，如 Content Analysis，Usability Testing 等，并使用统计学方法对实验结果进行分析。
+    - title: 大语言模型在技术写作中的应用
+      excerpt: 介绍大语言模型的基本原理，并探讨该技术在技术写作中的应用。
       cta: 详细阅读
       url: '#'
     - title: 技术文档开发综合实践
