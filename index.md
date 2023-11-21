@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: 北京大学技术写作师资班
-description: 2023年8月4日至7日，北京大学本部（网站内容不断更新中）
+description: 2023年8月4日至7日，北京大学本部（蚂蚁-北大技术传播人才培养）
 buttons:
     - content: 日程安排
       url: '/schedule'
@@ -40,7 +40,7 @@ grid_navigation:
     - title: 用户分析
       excerpt: 在撰写技术文档时，我们总是面向特定对象的，只有弄清楚用户的需求才能更好的提供技术信息。本小节将介绍常用的用户分析方法。
       cta: 详细阅读
-      url: '#'
+      url: 'user_researching'
     - title: 信息设计
       excerpt: 本小节将介绍信息设计和呈现的常用方法。
       cta: 详细阅读
